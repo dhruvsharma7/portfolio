@@ -1,0 +1,14 @@
+.copyright {
+  background-color: #000000;
+}
+
+.btn-primary {
+  background-color: #0672d6;
+  border-color: #2194ff;
+}
+
+hr.star-dark:after {
+  color: #ffffff;
+  background-color: #fff;
+}
+
